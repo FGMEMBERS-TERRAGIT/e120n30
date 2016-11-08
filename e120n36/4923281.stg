@@ -1,0 +1,11 @@
+OBJECT_SHARED Models/Airport/ils.xml 120.369331 36.277997 7.72 194.39
+OBJECT_SHARED Models/Airport/ils.xml 120.376978 36.253608 7.78 14.4
+OBJECT_SHARED Models/Communications/vordme_1.xml 120.369331 36.277997 7.72 180
+OBJECT_SHARED Models/Communications/vordme_1.xml 120.37 36.285 8.28 180
+OBJECT_SHARED Models/Airport/marker.ac 120.367014 36.288894 8.31 180
+OBJECT_SHARED Models/Airport/localizer.xml 120.368844 36.283506 8.06 75.54
+OBJECT_SHARED Models/Residential/ZoneImmeublesBas2.xml 120.3868887 36.2661061 11.08 0
+OBJECT_SHARED Models/Residential/ZoneImmeublesBas2.xml 120.3914467 36.2618983 11.74 0
+OBJECT_SHARED Models/Industrial/Zone-Indus.xml 120.3682265 36.2503199 8.88 12
+OBJECT_SHARED Models/Industrial/Zone-Indus-long.xml 120.3604141 36.265672 4.4 16
+OBJECT_SHARED Models/Industrial/factory_b_120x120.xml 120.3465253 36.2634662 0.95 0

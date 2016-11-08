@@ -1,0 +1,15 @@
+OBJECT_SHARED Models/Maritime/Civilian/HamburgExpress.xml 121.6735766 31.3623035 -0.21 0
+OBJECT_SHARED Models/Maritime/Misc/ContainerBruecke-Altenwerder.xml 121.6600135 31.3380395 -0.01 240
+OBJECT_SHARED Models/Maritime/Misc/odense_staalskibsvaerfts_kran.xml 121.6313741 31.3535545 -0.01 320
+OBJECT_SHARED Models/Maritime/Misc/odense_staalskibsvaerfts_kran.xml 121.6417111 31.3479803 1.14 328
+OBJECT_SHARED Models/Maritime/Misc/odense_staalskibsvaerfts_kran.xml 121.6462784 31.345645 -0.01 319.7
+OBJECT_SHARED Models/Maritime/Misc/odense_staalskibsvaerfts_kran.xml 121.6503939 31.3436108 -0.01 328
+OBJECT_SHARED Models/Maritime/Misc/odense_staalskibsvaerfts_kran.xml 121.6637449 31.3363022 -0.01 328
+OBJECT_SHARED Models/Maritime/Misc/odense_staalskibsvaerfts_kran.xml 121.6671236 31.3343183 -0.01 332
+OBJECT_SHARED Models/Maritime/Civilian/SimpleFreighter.ac 121.7189044 31.3329995 -0.11 0
+OBJECT_SHARED Models/Maritime/Civilian/Tanker_mooring.xml 121.6815312 31.357032 -0.18 140
+OBJECT_SHARED Models/Maritime/Civilian/Tanker_sailing.xml 121.6983696 31.346427 -0.14 240
+OBJECT_SHARED Models/Industrial/GenericStorageTank75m_black.ac 121.6532613 31.339053 -0.02 0
+OBJECT_SHARED Models/Maritime/Civilian/Shipyard-Crane.xml 121.6550005 31.3414319 -0.01 0
+OBJECT_SHARED Models/Maritime/Misc/phare.xml 121.6543362 31.3383962 -0.02 0
+OBJECT_STATIC yangpu-bridge.ac 121.54146992 31.25712906 0.01 226.4

@@ -1,0 +1,14 @@
+OBJECT_SHARED Models/Airport/marker.ac 120.382708 36.2408 11.08 180
+OBJECT_SHARED Models/Airport/marker.ac 120.397747 36.196456 35.38 180
+OBJECT_SHARED Models/Airport/localizer.xml 120.380039 36.248664 9.04 255.54
+OBJECT_SHARED Models/Residential/ZoneImmeublesBas2.xml 120.3880823 36.2190146 12.4 0
+OBJECT_SHARED Models/Residential/ZoneImmeublesBas2.xml 120.394608 36.2120753 18.09 0
+OBJECT_SHARED Models/Residential/ZoneImmeublesBas2.xml 120.3976153 36.2293474 19.35 0
+OBJECT_SHARED Models/Residential/ZoneImmeublesBas2.xml 120.3983589 36.2309642 21.64 0
+OBJECT_SHARED Models/Residential/ZoneImmeublesBas2.xml 120.4046888 36.1828882 54.62 0
+OBJECT_SHARED Models/Residential/ZoneImmeublesBas2.xml 120.4192509 36.142709 31.82 0
+OBJECT_SHARED Models/Residential/ZoneImmeublesBas2.xml 120.4223181 36.1460266 22.39 0
+OBJECT_SHARED Models/Industrial/Zone-Indus.xml 120.3808514 36.1848104 11.79 0
+OBJECT_SHARED Models/Industrial/industrial_b_120x060.xml 120.3617764 36.2453693 8.18 0
+OBJECT_SHARED Models/Power/transformer_station.ac 120.3451196 36.1276196 36.92 0
+OBJECT_SHARED Models/Industrial/Water-Tower-62m.ac 120.348403 36.2339777 3.24 0
