@@ -38,5 +38,6 @@ OBJECT_SHARED Models/Industrial/Boesdorf_Chimney.xml 120.3375566 36.0984602 3.71
 OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 120.2986395 36.1076949 -0.44 0
 OBJECT_SHARED Models/Communications/Antenna1.ac 120.3549589 36.0763013 43.09 0
 OBJECT_SHARED Models/Industrial/logistic_hangar_350x50.ac 120.3278519 36.0917216 2.02 16
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 120.2826122 36.0447716 -2.4 0
 OBJECT_SHARED Models/Industrial/Crane-100m.xml 120.325943 36.0848695 13.07 0
 OBJECT_SHARED Models/Maritime/Civilian/SailBoat_38feet.xml 120.2678018 36.0844303 -1.25 0
