@@ -565,3 +565,4 @@ OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac 121.32421 31.20435 -86
 OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac 121.32378 31.20434 -86.47 0.190002
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 121.34182 31.19688 3.37 92.29
 # END dsf2stg
+OBJECT_STATIC Shanghai_Wheel.xml 121.408915 31.14094 6.87 64
